@@ -1,0 +1,18 @@
+﻿---
+ID: "ef9754b3-003c-4c25-b44d-9dc90b2f360a"
+Parent: "9eb7e07d-d80c-4793-94f9-3f1ed78efb5b"
+Template: "5230c109-d2ed-4c98-93a6-95bc8a8dddfd"
+Path: /sitecore/content/Home/Parent Page 1/Child Page C/Grandchild 006
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190302T161456Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
