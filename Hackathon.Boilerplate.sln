@@ -33,6 +33,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Multiselect", "Multiselect"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.Boilerplate.Feature.Multiselect", "src\Feature\Multiselect\code\Hackathon.Boilerplate.Feature.Multiselect.csproj", "{9E343D4B-350B-45C2-A2E3-8C226F0329F1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo", "Demo", "{C4FA68BF-1F56-49E0-A697-868021095158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.Boilerplate.Project.Demo", "src\Project\Demo\code\Hackathon.Boilerplate.Project.Demo.csproj", "{1C0070B1-5AE6-4855-B9FC-40AF0D3B1208}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,10 @@ Global
 		{9E343D4B-350B-45C2-A2E3-8C226F0329F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E343D4B-350B-45C2-A2E3-8C226F0329F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E343D4B-350B-45C2-A2E3-8C226F0329F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0070B1-5AE6-4855-B9FC-40AF0D3B1208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0070B1-5AE6-4855-B9FC-40AF0D3B1208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0070B1-5AE6-4855-B9FC-40AF0D3B1208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0070B1-5AE6-4855-B9FC-40AF0D3B1208}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +59,8 @@ Global
 		{D27C83D2-2EAF-4E44-A1ED-2B3C2EBB5854} = {DAFED8F5-6CBD-4384-AAD6-DC3BCCF24911}
 		{B5776E54-44A9-43B5-8367-4ABBB5C63557} = {17DD5718-6E13-4F2C-9738-B410396D4552}
 		{9E343D4B-350B-45C2-A2E3-8C226F0329F1} = {B5776E54-44A9-43B5-8367-4ABBB5C63557}
+		{C4FA68BF-1F56-49E0-A697-868021095158} = {15D97D61-D597-42EC-B7E9-E9EC8130E630}
+		{1C0070B1-5AE6-4855-B9FC-40AF0D3B1208} = {C4FA68BF-1F56-49E0-A697-868021095158}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {311DA37D-528B-43B2-A99B-E7253F841D46}
