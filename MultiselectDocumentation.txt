@@ -1,0 +1,8 @@
+# Hackathon.Boilerplate Multiselect Plugin
+
+Step 1. Create a Helix based solution with Unicorn serialization (for demo purposes);
+Step 2. Three levels of pages are created (Parent Template, Child Template, Grandchild);
+Step 3. ToDo: FE Injection into Experience Editor (as Chrome extension or directly if possible);
+Step 4. Enable FE multiselect (simply by adding .scContentTreeNodeActive);
+Step 4.a Note: checked ItemIDs should be stored on FE (due to component refresh and loosing selection);
+Step 5. Provide list of selected IDs to BE (can be translated into Sitecore Search query or consumed by 'BulkEdit' component, implemented by another WM Reply team).
